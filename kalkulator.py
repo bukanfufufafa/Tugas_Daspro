@@ -7,3 +7,4 @@ b = int(input("masukkan angka b: "))
 c = int(input("masukkan angka c: "))
 d = a + b + c
 print(f"{a} + {b} + {c} = {d}")
+print("beigut hailnya")

@@ -6,3 +6,4 @@ alas = float(input("masukkan panjang alas: "))
 tinggi = float(input("masukkan tinggi: "))
 luas = alas * tinggi * 0.5
 print(f"luas segitiga adalah {luas}")
+print("ini tugas litik juga")
